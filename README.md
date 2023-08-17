@@ -1,3 +1,5 @@
+<img src="./.github/assets/rustacean.gif"/>
+
 # trpl
 
 The Rust Programming Language Book implementations
